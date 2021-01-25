@@ -4,4 +4,5 @@ This project is a clone of pstuvwx's https://github.com/pstuvwx/Deep_VoiceChange
 The following changes have been made to the project
 
 Chainer → Pytorch
+
 CUI → GUI (Optionally selectable)
