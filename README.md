@@ -4,8 +4,6 @@ This project is a clone of <a href="https://github.com/pstuvwx">雅</a>'s <a hre
 
 ## The following changes have been made to the project
 
-########################################################################
-
 Chainer → Pytorch
 
 CUI → GUI (Optionally selectable)
