@@ -19,7 +19,7 @@ Change to Licens MIT License to GNU General Public License v3.0 (Some codes cont
 ## LICENCEs
 
 GNU General Public License v3.0
-
+https://github.com/Rumia-Channel/Deep_VoiceChanger/blob/main/LICENSE
 
 Original project licence MIT
 https://github.com/pstuvwx/Deep_VoiceChanger/blob/master/LICENSE
