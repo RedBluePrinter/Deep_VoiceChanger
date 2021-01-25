@@ -18,10 +18,12 @@ Change to Licens MIT License to GNU General Public License v3.0 (Some codes cont
 
 ## LICENCEs
 
-GNU General Public License v3.0<br>https://github.com/Rumia-Channel/Deep_VoiceChanger/blob/main/LICENSE
+GNU General Public License v3.0   
+https://github.com/Rumia-Channel/Deep_VoiceChanger/blob/main/LICENSE
 
-Original project licence MIT<br>https://github.com/pstuvwx/Deep_VoiceChanger/blob/master/LICENSE
+Original project licence MIT   
+https://github.com/pstuvwx/Deep_VoiceChanger/blob/master/LICENSE
 
-Some codes contain other lisence.  
-<br>https://github.com/pfnet-research/sngan_projection/blob/master/LICENSE.md  
-<br>https://github.com/pfnet-research/chainer-gan-lib/blob/master/LICENSE
+Some codes contain other lisence.   
+https://github.com/pfnet-research/sngan_projection/blob/master/LICENSE.md   
+https://github.com/pfnet-research/chainer-gan-lib/blob/master/LICENSE
