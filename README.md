@@ -16,4 +16,4 @@ Adding an installer (Windwos only)
 
 Adding an executable binary (Windows only)
 
-Change to Licens MIT License
+Change to Licens MIT License to GNU General Public License v3.0 (Some codes contain other lisence.)
