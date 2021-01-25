@@ -19,3 +19,7 @@ Change to Licens MIT License to GNU General Public License v3.0 (Some codes cont
 ## LICENCEs
 
 GNU General Public License v3.0
+
+Some codes contain other lisence.  
+https://github.com/pfnet-research/sngan_projection/blob/master/LICENSE.md  
+https://github.com/pfnet-research/chainer-gan-lib/blob/master/LICENSE
