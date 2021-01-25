@@ -15,3 +15,5 @@ We have added the ability to automatically create study material in ffmpeg (Wind
 Adding an installer (Windwos only)
 
 Adding an executable binary (Windows only)
+
+Change to Licens MIT License
