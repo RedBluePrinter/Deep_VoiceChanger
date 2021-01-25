@@ -23,5 +23,5 @@ GNU General Public License v3.0<br>https://github.com/Rumia-Channel/Deep_VoiceCh
 Original project licence MIT<br>https://github.com/pstuvwx/Deep_VoiceChanger/blob/master/LICENSE
 
 Some codes contain other lisence.  
-https://github.com/pfnet-research/sngan_projection/blob/master/LICENSE.md  
-https://github.com/pfnet-research/chainer-gan-lib/blob/master/LICENSE
+<br>https://github.com/pfnet-research/sngan_projection/blob/master/LICENSE.md  
+<br>https://github.com/pfnet-research/chainer-gan-lib/blob/master/LICENSE
