@@ -24,6 +24,6 @@ https://github.com/Rumia-Channel/Deep_VoiceChanger/blob/main/LICENSE
 Original project licence MIT   
 https://github.com/pstuvwx/Deep_VoiceChanger/blob/master/LICENSE
 
-Some codes contain other lisence.   
+Some codes contain other licence.   
 https://github.com/pfnet-research/sngan_projection/blob/master/LICENSE.md   
 https://github.com/pfnet-research/chainer-gan-lib/blob/master/LICENSE
